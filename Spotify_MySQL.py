@@ -10,7 +10,7 @@ client_secret=''
 database_config={
     'host':'localhost',
     'username':'root',
-    'password':'Bothi@3',
+    'password':'root',
     'database':'spotifyDb',
 }
 
